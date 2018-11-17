@@ -1,1 +1,2 @@
 INSERT INTO GUEST VALUES('torren.sampson@gmail.com', 'Sampson', '1111222233334444', '6199525179', '11920 98th Ave Kirkland, WA 98034');
+INSERT INTO GUEST VALUES('srobbins8@frontier.com', 'Robbins', '1234123412341234', '12342342345', '12345 67th St Fairyland, WA 98296');
