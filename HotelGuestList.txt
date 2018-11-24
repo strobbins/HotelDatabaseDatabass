@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> 65dd38e7ceadd31d96111dcc75426719a9a5572b
-=======
-
->>>>>>> 15711fc4fc0631e31aea8d7a16685fe1dec01c6f
 Hannah Abbott habbott@hufflepuff.hogwarts.edu
 Ludo Bagman lbagman@ministryofmagic.gov
 Bathilda Bagshot bathilda@owlmail.com
